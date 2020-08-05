@@ -1,15 +1,17 @@
 import React from 'react';
 
+import Landing from './pages/Landing'
+import Routes from './routes';
+
 import './assets/styles/global.css';
 
-import Landing from './pages/Landing'
 // JSX - Javscript + Xml
 
 // App é um componente
 
 function App() {
   return (
-    <Landing />
+    <Routes />
   );
 }
 
