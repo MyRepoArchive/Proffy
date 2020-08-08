@@ -1,1 +1,1 @@
-![Proffy](src/assets/images/logo.svg)
+![Proffy](src/assets/images/logo-roxa.svg)
